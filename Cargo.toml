@@ -1,0 +1,7 @@
+[package]
+name = "numa"
+version = "0.1.0"
+authors = ["Connor Doyle <connor.p.d@gmail.com>"]
+
+[dependencies]
+libc = "0.2.0"
